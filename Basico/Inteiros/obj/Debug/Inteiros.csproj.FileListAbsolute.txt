@@ -1,0 +1,8 @@
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Inteiros\bin\Debug\Inteiros.exe.config
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Inteiros\bin\Debug\Inteiros.exe
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Inteiros\bin\Debug\Inteiros.pdb
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Inteiros\obj\Debug\Inteiros.csproj.AssemblyReference.cache
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Inteiros\obj\Debug\Inteiros.csproj.SuggestedBindingRedirects.cache
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Inteiros\obj\Debug\Inteiros.csproj.CoreCompileInputs.cache
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Inteiros\obj\Debug\Inteiros.exe
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Inteiros\obj\Debug\Inteiros.pdb

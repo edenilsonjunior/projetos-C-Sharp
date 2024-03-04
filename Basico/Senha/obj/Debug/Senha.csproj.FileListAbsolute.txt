@@ -1,0 +1,8 @@
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Senha\bin\Debug\Senha.exe.config
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Senha\bin\Debug\Senha.exe
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Senha\bin\Debug\Senha.pdb
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Senha\obj\Debug\Senha.csproj.AssemblyReference.cache
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Senha\obj\Debug\Senha.csproj.SuggestedBindingRedirects.cache
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Senha\obj\Debug\Senha.csproj.CoreCompileInputs.cache
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Senha\obj\Debug\Senha.exe
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Senha\obj\Debug\Senha.pdb

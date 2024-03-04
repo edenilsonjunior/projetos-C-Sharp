@@ -1,0 +1,8 @@
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\AntSuc\bin\Debug\AntSuc.exe.config
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\AntSuc\bin\Debug\AntSuc.exe
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\AntSuc\bin\Debug\AntSuc.pdb
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\AntSuc\obj\Debug\AntSuc.csproj.AssemblyReference.cache
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\AntSuc\obj\Debug\AntSuc.csproj.SuggestedBindingRedirects.cache
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\AntSuc\obj\Debug\AntSuc.csproj.CoreCompileInputs.cache
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\AntSuc\obj\Debug\AntSuc.exe
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\AntSuc\obj\Debug\AntSuc.pdb

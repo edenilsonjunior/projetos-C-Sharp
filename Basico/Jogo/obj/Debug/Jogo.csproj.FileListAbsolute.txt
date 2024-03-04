@@ -1,0 +1,8 @@
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Jogo\bin\Debug\Jogo.exe.config
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Jogo\bin\Debug\Jogo.exe
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Jogo\bin\Debug\Jogo.pdb
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Jogo\obj\Debug\Jogo.csproj.AssemblyReference.cache
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Jogo\obj\Debug\Jogo.csproj.SuggestedBindingRedirects.cache
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Jogo\obj\Debug\Jogo.csproj.CoreCompileInputs.cache
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Jogo\obj\Debug\Jogo.exe
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Jogo\obj\Debug\Jogo.pdb

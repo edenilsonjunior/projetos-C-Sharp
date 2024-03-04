@@ -1,0 +1,7 @@
+C:\Users\edeni\OneDrive\Documentos\pessoal\curso-JN\projetos\Colecoes\Exercicio1\bin\Debug\Exercicio1.exe.config
+C:\Users\edeni\OneDrive\Documentos\pessoal\curso-JN\projetos\Colecoes\Exercicio1\bin\Debug\Exercicio1.exe
+C:\Users\edeni\OneDrive\Documentos\pessoal\curso-JN\projetos\Colecoes\Exercicio1\bin\Debug\Exercicio1.pdb
+C:\Users\edeni\OneDrive\Documentos\pessoal\curso-JN\projetos\Colecoes\Exercicio1\obj\Debug\Exercicio1.csproj.AssemblyReference.cache
+C:\Users\edeni\OneDrive\Documentos\pessoal\curso-JN\projetos\Colecoes\Exercicio1\obj\Debug\Exercicio1.csproj.CoreCompileInputs.cache
+C:\Users\edeni\OneDrive\Documentos\pessoal\curso-JN\projetos\Colecoes\Exercicio1\obj\Debug\Exercicio1.exe
+C:\Users\edeni\OneDrive\Documentos\pessoal\curso-JN\projetos\Colecoes\Exercicio1\obj\Debug\Exercicio1.pdb

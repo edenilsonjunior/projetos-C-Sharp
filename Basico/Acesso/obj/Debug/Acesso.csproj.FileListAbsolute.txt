@@ -1,0 +1,8 @@
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Acesso\bin\Debug\Acesso.exe.config
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Acesso\bin\Debug\Acesso.exe
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Acesso\bin\Debug\Acesso.pdb
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Acesso\obj\Debug\Acesso.csproj.AssemblyReference.cache
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Acesso\obj\Debug\Acesso.csproj.SuggestedBindingRedirects.cache
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Acesso\obj\Debug\Acesso.csproj.CoreCompileInputs.cache
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Acesso\obj\Debug\Acesso.exe
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Acesso\obj\Debug\Acesso.pdb

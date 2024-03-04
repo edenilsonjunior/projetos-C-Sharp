@@ -1,0 +1,8 @@
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Soma\bin\Debug\Soma.exe.config
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Soma\bin\Debug\Soma.exe
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Soma\bin\Debug\Soma.pdb
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Soma\obj\Debug\Soma.csproj.AssemblyReference.cache
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Soma\obj\Debug\Soma.csproj.SuggestedBindingRedirects.cache
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Soma\obj\Debug\Soma.csproj.CoreCompileInputs.cache
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Soma\obj\Debug\Soma.exe
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Soma\obj\Debug\Soma.pdb

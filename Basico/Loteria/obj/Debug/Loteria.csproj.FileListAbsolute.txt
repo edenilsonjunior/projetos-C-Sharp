@@ -1,0 +1,8 @@
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Loteria\bin\Debug\Loteria.exe.config
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Loteria\bin\Debug\Loteria.exe
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Loteria\bin\Debug\Loteria.pdb
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Loteria\obj\Debug\Loteria.csproj.AssemblyReference.cache
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Loteria\obj\Debug\Loteria.csproj.SuggestedBindingRedirects.cache
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Loteria\obj\Debug\Loteria.csproj.CoreCompileInputs.cache
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Loteria\obj\Debug\Loteria.exe
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Loteria\obj\Debug\Loteria.pdb

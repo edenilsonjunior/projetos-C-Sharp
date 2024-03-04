@@ -1,0 +1,8 @@
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Tinder\bin\Debug\Tinder.exe.config
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Tinder\bin\Debug\Tinder.exe
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Tinder\bin\Debug\Tinder.pdb
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Tinder\obj\Debug\Tinder.csproj.AssemblyReference.cache
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Tinder\obj\Debug\Tinder.csproj.SuggestedBindingRedirects.cache
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Tinder\obj\Debug\Tinder.csproj.CoreCompileInputs.cache
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Tinder\obj\Debug\Tinder.exe
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Tinder\obj\Debug\Tinder.pdb

@@ -1,0 +1,8 @@
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\EleicaoTurbo\bin\Debug\EleicaoTurbo.exe.config
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\EleicaoTurbo\bin\Debug\EleicaoTurbo.exe
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\EleicaoTurbo\bin\Debug\EleicaoTurbo.pdb
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\EleicaoTurbo\obj\Debug\EleicaoTurbo.csproj.AssemblyReference.cache
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\EleicaoTurbo\obj\Debug\EleicaoTurbo.csproj.SuggestedBindingRedirects.cache
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\EleicaoTurbo\obj\Debug\EleicaoTurbo.csproj.CoreCompileInputs.cache
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\EleicaoTurbo\obj\Debug\EleicaoTurbo.exe
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\EleicaoTurbo\obj\Debug\EleicaoTurbo.pdb

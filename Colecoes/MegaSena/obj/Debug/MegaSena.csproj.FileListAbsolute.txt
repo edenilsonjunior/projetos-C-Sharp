@@ -1,0 +1,8 @@
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Colecoes\MegaSena\bin\Debug\MegaSena.exe.config
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Colecoes\MegaSena\bin\Debug\MegaSena.exe
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Colecoes\MegaSena\bin\Debug\MegaSena.pdb
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Colecoes\MegaSena\obj\Debug\MegaSena.csproj.AssemblyReference.cache
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Colecoes\MegaSena\obj\Debug\MegaSena.csproj.SuggestedBindingRedirects.cache
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Colecoes\MegaSena\obj\Debug\MegaSena.csproj.CoreCompileInputs.cache
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Colecoes\MegaSena\obj\Debug\MegaSena.exe
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Colecoes\MegaSena\obj\Debug\MegaSena.pdb

@@ -1,0 +1,15 @@
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Colecoes\Funcoes\bin\Debug\Funcoes.exe.config
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Colecoes\Funcoes\bin\Debug\Funcoes.exe
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Colecoes\Funcoes\bin\Debug\Funcoes.pdb
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Colecoes\Funcoes\obj\Debug\Funcoes.csproj.AssemblyReference.cache
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Colecoes\Funcoes\obj\Debug\Funcoes.csproj.SuggestedBindingRedirects.cache
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Colecoes\Funcoes\obj\Debug\Funcoes.csproj.CoreCompileInputs.cache
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Colecoes\Funcoes\obj\Debug\Funcoes.exe
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Colecoes\Funcoes\obj\Debug\Funcoes.pdb
+C:\Users\edeni\OneDrive\Documentos\pessoal\curso-JN\projetos\Colecoes\Funcoes\bin\Debug\Funcoes.exe.config
+C:\Users\edeni\OneDrive\Documentos\pessoal\curso-JN\projetos\Colecoes\Funcoes\bin\Debug\Funcoes.exe
+C:\Users\edeni\OneDrive\Documentos\pessoal\curso-JN\projetos\Colecoes\Funcoes\bin\Debug\Funcoes.pdb
+C:\Users\edeni\OneDrive\Documentos\pessoal\curso-JN\projetos\Colecoes\Funcoes\obj\Debug\Funcoes.csproj.AssemblyReference.cache
+C:\Users\edeni\OneDrive\Documentos\pessoal\curso-JN\projetos\Colecoes\Funcoes\obj\Debug\Funcoes.csproj.CoreCompileInputs.cache
+C:\Users\edeni\OneDrive\Documentos\pessoal\curso-JN\projetos\Colecoes\Funcoes\obj\Debug\Funcoes.exe
+C:\Users\edeni\OneDrive\Documentos\pessoal\curso-JN\projetos\Colecoes\Funcoes\obj\Debug\Funcoes.pdb

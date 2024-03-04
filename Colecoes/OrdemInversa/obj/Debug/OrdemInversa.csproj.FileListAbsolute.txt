@@ -1,0 +1,8 @@
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Colecoes\OrdemInversa\bin\Debug\OrdemInversa.exe.config
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Colecoes\OrdemInversa\bin\Debug\OrdemInversa.exe
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Colecoes\OrdemInversa\bin\Debug\OrdemInversa.pdb
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Colecoes\OrdemInversa\obj\Debug\OrdemInversa.csproj.AssemblyReference.cache
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Colecoes\OrdemInversa\obj\Debug\OrdemInversa.csproj.SuggestedBindingRedirects.cache
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Colecoes\OrdemInversa\obj\Debug\OrdemInversa.csproj.CoreCompileInputs.cache
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Colecoes\OrdemInversa\obj\Debug\OrdemInversa.exe
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Colecoes\OrdemInversa\obj\Debug\OrdemInversa.pdb

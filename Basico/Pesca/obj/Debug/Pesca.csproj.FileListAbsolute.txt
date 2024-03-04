@@ -1,0 +1,8 @@
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Pesca\bin\Debug\Pesca.exe.config
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Pesca\bin\Debug\Pesca.exe
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Pesca\bin\Debug\Pesca.pdb
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Pesca\obj\Debug\Pesca.csproj.AssemblyReference.cache
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Pesca\obj\Debug\Pesca.csproj.SuggestedBindingRedirects.cache
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Pesca\obj\Debug\Pesca.csproj.CoreCompileInputs.cache
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Pesca\obj\Debug\Pesca.exe
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Pesca\obj\Debug\Pesca.pdb

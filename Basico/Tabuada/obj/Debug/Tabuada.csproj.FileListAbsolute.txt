@@ -1,0 +1,8 @@
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Tabuada\bin\Debug\Tabuada.exe.config
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Tabuada\bin\Debug\Tabuada.exe
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Tabuada\bin\Debug\Tabuada.pdb
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Tabuada\obj\Debug\Tabuada.csproj.AssemblyReference.cache
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Tabuada\obj\Debug\Tabuada.csproj.SuggestedBindingRedirects.cache
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Tabuada\obj\Debug\Tabuada.csproj.CoreCompileInputs.cache
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Tabuada\obj\Debug\Tabuada.exe
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Tabuada\obj\Debug\Tabuada.pdb

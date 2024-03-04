@@ -1,0 +1,8 @@
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Pares\bin\Debug\Pares.exe.config
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Pares\bin\Debug\Pares.exe
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Pares\bin\Debug\Pares.pdb
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Pares\obj\Debug\Pares.csproj.AssemblyReference.cache
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Pares\obj\Debug\Pares.csproj.SuggestedBindingRedirects.cache
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Pares\obj\Debug\Pares.csproj.CoreCompileInputs.cache
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Pares\obj\Debug\Pares.exe
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Pares\obj\Debug\Pares.pdb

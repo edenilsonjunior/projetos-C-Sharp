@@ -1,0 +1,8 @@
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Calculadora\bin\Debug\Calculadora.exe.config
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Calculadora\bin\Debug\Calculadora.exe
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Calculadora\bin\Debug\Calculadora.pdb
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Calculadora\obj\Debug\Calculadora.csproj.SuggestedBindingRedirects.cache
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Calculadora\obj\Debug\Calculadora.exe
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Calculadora\obj\Debug\Calculadora.pdb

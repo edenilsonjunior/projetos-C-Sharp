@@ -1,0 +1,8 @@
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Prefeitura\bin\Debug\Prefeitura.exe.config
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Prefeitura\bin\Debug\Prefeitura.exe
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Prefeitura\bin\Debug\Prefeitura.pdb
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Prefeitura\obj\Debug\Prefeitura.csproj.AssemblyReference.cache
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Prefeitura\obj\Debug\Prefeitura.csproj.SuggestedBindingRedirects.cache
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Prefeitura\obj\Debug\Prefeitura.csproj.CoreCompileInputs.cache
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Prefeitura\obj\Debug\Prefeitura.exe
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Basico\Prefeitura\obj\Debug\Prefeitura.pdb

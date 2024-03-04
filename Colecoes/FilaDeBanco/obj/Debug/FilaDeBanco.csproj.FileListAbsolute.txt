@@ -1,0 +1,8 @@
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Colecoes\FilaDeBanco\bin\Debug\FilaDeBanco.exe.config
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Colecoes\FilaDeBanco\bin\Debug\FilaDeBanco.exe
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Colecoes\FilaDeBanco\bin\Debug\FilaDeBanco.pdb
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Colecoes\FilaDeBanco\obj\Debug\FilaDeBanco.csproj.AssemblyReference.cache
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Colecoes\FilaDeBanco\obj\Debug\FilaDeBanco.csproj.SuggestedBindingRedirects.cache
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Colecoes\FilaDeBanco\obj\Debug\FilaDeBanco.csproj.CoreCompileInputs.cache
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Colecoes\FilaDeBanco\obj\Debug\FilaDeBanco.exe
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Colecoes\FilaDeBanco\obj\Debug\FilaDeBanco.pdb
